@@ -30,7 +30,7 @@ export const AuthProvider: React.FC = ({ children }) => {
     });
   }, []);
 
-  const handleSetUser = (user: any) => setCurrentUser(user);
+  const handleSetUser = (user: User) => setCurrentUser(user);
 
   return (
     <ViewLoader isLoading={loading} loadingMessage="Loading...">
