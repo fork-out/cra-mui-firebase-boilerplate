@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Create React App with TypeScript (MUI + Firebase + React Router v6)
 
 ![demo](https://raw.githubusercontent.com/fork-out/cra-mui-firebase-boilerplate/main/public/screenshot.png)
 
