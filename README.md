@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![demo](https://raw.githubusercontent.com/fork-out/cra-mui-firebase-boilerplate/main/public/screenshot.png)
+
 This project was bootstrapped with
 
 - [CRA v5](https://github.com/facebook/create-react-app) for bootstraping the client
